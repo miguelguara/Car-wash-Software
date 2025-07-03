@@ -26,3 +26,31 @@ S:\Software_LavaRapido\obj\Debug\Software_LavaRapido.LimpezasForm.resources
 S:\Software_LavaRapido\obj\Debug\Software_LavaRapido.UsuarioListarForm.resources
 S:\Software_LavaRapido\obj\Debug\Software_LavaRapido.CadastrarUsuarioForm.resources
 S:\Software_LavaRapido\obj\Debug\Software_LavaRapido.AgendamentosForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Software_LavaRapido.exe.config
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Software_LavaRapido.exe
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Software_LavaRapido.pdb
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Dapper.dll
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Dapper.xml
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.csproj.AssemblyReference.cache
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.AgendamentosForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.CadastrarUsuarioForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.Cadastro_ClienteForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.ClientesForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.PrincipalForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.LimpezasForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.LoginForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.CadastroVeiculoForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.Properties.Resources.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.UsuarioListarForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.VeiculosForm.resources
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.csproj.GenerateResource.cache
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.csproj.CoreCompileInputs.cache
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software.6EA0829B.Up2Date
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.exe
+S:\Repositório LR\Car-wash-Software\Software_LavaRapido\obj\Debug\Software_LavaRapido.pdb

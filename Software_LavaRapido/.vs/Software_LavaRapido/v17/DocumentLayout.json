@@ -1,133 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\Software_LavaRapido\\",
+  "WorkspaceRootPath": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\agendamentosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|s:\\reposit\u00F3rio lr\\car-wash-software\\software_lavarapido\\agendamentosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:agendamentosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|s:\\software_lavarapido\\agendamentosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\agendamentosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:agendamentosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\mapeamento\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\mapeamento\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:mapeamento\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\veiculosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\veiculosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:veiculosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\limpezasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\limpezasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:limpezasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\limpezasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\limpezasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:limpezasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\negocio\\limpezadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\negocio\\limpezadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:negocio\\limpezadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\negocio\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\negocio\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:negocio\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\negocio\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\negocio\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:negocio\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\mapeamento\\limpeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\mapeamento\\limpeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:mapeamento\\limpeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\negocio\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\negocio\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:negocio\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\usuariolistarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\usuariolistarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:usuariolistarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\agendamentosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\agendamentosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:agendamentosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\usuariolistarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\usuariolistarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:usuariolistarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\mapeamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\mapeamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:mapeamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\cadastro_clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\cadastro_clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:cadastro_clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\cadastro_clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\cadastro_clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:cadastro_clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\cadastrarusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\cadastrarusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:cadastrarusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\cadastrarusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\cadastrarusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:cadastrarusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\cadastroveiculoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\cadastroveiculoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:cadastroveiculoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\veiculosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\veiculosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:veiculosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\cadastroveiculoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\cadastroveiculoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:cadastroveiculoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\mapeamento\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\mapeamento\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:mapeamento\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\clientesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\clientesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:clientesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Software_LavaRapido\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECCDAA-7E56-439E-82AD-DBCC8A027662}|Software_LavaRapido.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -138,53 +138,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgendamentosForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\AgendamentosForm.cs",
-              "RelativeDocumentMoniker": "AgendamentosForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\AgendamentosForm.cs",
-              "RelativeToolTip": "AgendamentosForm.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAswFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T02:57:30.104Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VeiculosForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\VeiculosForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\VeiculosForm.cs",
               "RelativeDocumentMoniker": "VeiculosForm.cs",
               "ToolTip": "S:\\Software_LavaRapido\\VeiculosForm.cs [Design]",
-              "RelativeToolTip": "VeiculosForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\VeiculosForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T22:16:56.193Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-05T22:16:56.193Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Veiculo.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Mapeamento\\Veiculo.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Veiculo.cs",
               "RelativeDocumentMoniker": "Mapeamento\\Veiculo.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Mapeamento\\Veiculo.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Veiculo.cs",
               "RelativeToolTip": "Mapeamento\\Veiculo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:40:26.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T18:40:26.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LimpezasForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\LimpezasForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LimpezasForm.cs",
               "RelativeDocumentMoniker": "LimpezasForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\LimpezasForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LimpezasForm.cs",
               "RelativeToolTip": "LimpezasForm.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAArwC8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +179,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "VeiculoDAO.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Negocio\\VeiculoDAO.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\VeiculoDAO.cs",
               "RelativeDocumentMoniker": "Negocio\\VeiculoDAO.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Negocio\\VeiculoDAO.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\VeiculoDAO.cs",
               "RelativeToolTip": "Negocio\\VeiculoDAO.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAArwB8AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,9 +191,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ClienteDAO.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Negocio\\ClienteDAO.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\ClienteDAO.cs",
               "RelativeDocumentMoniker": "Negocio\\ClienteDAO.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Negocio\\ClienteDAO.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\ClienteDAO.cs",
               "RelativeToolTip": "Negocio\\ClienteDAO.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAArwCEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,9 +203,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UsuarioDAO.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Negocio\\UsuarioDAO.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\UsuarioDAO.cs",
               "RelativeDocumentMoniker": "Negocio\\UsuarioDAO.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Negocio\\UsuarioDAO.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\UsuarioDAO.cs",
               "RelativeToolTip": "Negocio\\UsuarioDAO.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,22 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LimpezasForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\LimpezasForm.cs",
-              "RelativeDocumentMoniker": "LimpezasForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\LimpezasForm.cs [Design]",
-              "RelativeToolTip": "LimpezasForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T00:47:57.356Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AgendamentosForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\AgendamentosForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\AgendamentosForm.cs",
               "RelativeDocumentMoniker": "AgendamentosForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\AgendamentosForm.cs [Design]",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\AgendamentosForm.cs [Design]",
               "RelativeToolTip": "AgendamentosForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T02:51:50.132Z",
@@ -251,11 +225,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendamentosForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\AgendamentosForm.cs",
+              "RelativeDocumentMoniker": "AgendamentosForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\AgendamentosForm.cs",
+              "RelativeToolTip": "AgendamentosForm.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:57:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LimpezasForm.cs [Design]",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LimpezasForm.cs",
+              "RelativeDocumentMoniker": "LimpezasForm.cs",
+              "ToolTip": "S:\\Software_LavaRapido\\LimpezasForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\LimpezasForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:47:57.356Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "LimpezaDAO.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Negocio\\LimpezaDAO.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\LimpezaDAO.cs",
               "RelativeDocumentMoniker": "Negocio\\LimpezaDAO.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Negocio\\LimpezaDAO.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Negocio\\LimpezaDAO.cs",
               "RelativeToolTip": "Negocio\\LimpezaDAO.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Limpeza.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Mapeamento\\Limpeza.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Limpeza.cs",
               "RelativeDocumentMoniker": "Mapeamento\\Limpeza.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Mapeamento\\Limpeza.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Limpeza.cs",
               "RelativeToolTip": "Mapeamento\\Limpeza.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,10 +275,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UsuarioListarForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\UsuarioListarForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\UsuarioListarForm.cs",
               "RelativeDocumentMoniker": "UsuarioListarForm.cs",
               "ToolTip": "S:\\Software_LavaRapido\\UsuarioListarForm.cs [Design]",
-              "RelativeToolTip": "UsuarioListarForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\UsuarioListarForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T01:11:54.893Z"
             },
@@ -288,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AgendamentosForm.Designer.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\AgendamentosForm.Designer.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\AgendamentosForm.Designer.cs",
               "RelativeDocumentMoniker": "AgendamentosForm.Designer.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\AgendamentosForm.Designer.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\AgendamentosForm.Designer.cs",
               "RelativeToolTip": "AgendamentosForm.Designer.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAswEMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,10 +299,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\LoginForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
               "ToolTip": "S:\\Software_LavaRapido\\LoginForm.cs [Design]",
-              "RelativeToolTip": "LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T02:19:00.57Z"
             },
@@ -312,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "UsuarioListarForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\UsuarioListarForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\UsuarioListarForm.cs",
               "RelativeDocumentMoniker": "UsuarioListarForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\UsuarioListarForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\UsuarioListarForm.cs",
               "RelativeToolTip": "UsuarioListarForm.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAcwCsAAACcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -324,9 +322,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Mapeamento\\Usuario.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Usuario.cs",
               "RelativeDocumentMoniker": "Mapeamento\\Usuario.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Mapeamento\\Usuario.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Usuario.cs",
               "RelativeToolTip": "Mapeamento\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,9 +334,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\LoginForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\LoginForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LoginForm.cs",
               "RelativeToolTip": "LoginForm.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAIAwwB0AAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,10 +346,10 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Form1.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "S:\\Software_LavaRapido\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T16:50:32.302Z"
             },
@@ -359,10 +357,10 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Cadastro_ClienteForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Cadastro_ClienteForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Cadastro_ClienteForm.cs",
               "RelativeDocumentMoniker": "Cadastro_ClienteForm.cs",
               "ToolTip": "S:\\Software_LavaRapido\\Cadastro_ClienteForm.cs [Design]",
-              "RelativeToolTip": "Cadastro_ClienteForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\Cadastro_ClienteForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:18:05.654Z"
             },
@@ -370,9 +368,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Form1.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Form1.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Form1.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAuwCYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,9 +380,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "ClientesForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\ClientesForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\ClientesForm.cs",
               "RelativeDocumentMoniker": "ClientesForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\ClientesForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\ClientesForm.cs",
               "RelativeToolTip": "ClientesForm.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAtwDEAAACZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,10 +392,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "ClientesForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\ClientesForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\ClientesForm.cs",
               "RelativeDocumentMoniker": "ClientesForm.cs",
               "ToolTip": "S:\\Software_LavaRapido\\ClientesForm.cs [Design]",
-              "RelativeToolTip": "ClientesForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\ClientesForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T18:01:51.264Z"
             },
@@ -405,9 +403,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Cadastro_ClienteForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Cadastro_ClienteForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Cadastro_ClienteForm.cs",
               "RelativeDocumentMoniker": "Cadastro_ClienteForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Cadastro_ClienteForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Cadastro_ClienteForm.cs",
               "RelativeToolTip": "Cadastro_ClienteForm.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAAwBIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,10 +415,10 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "CadastrarUsuarioForm.cs [Design]",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\CadastrarUsuarioForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastrarUsuarioForm.cs",
               "RelativeDocumentMoniker": "CadastrarUsuarioForm.cs",
               "ToolTip": "S:\\Software_LavaRapido\\CadastrarUsuarioForm.cs [Design]",
-              "RelativeToolTip": "CadastrarUsuarioForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Software_LavaRapido\\CadastrarUsuarioForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T01:41:37.551Z"
             },
@@ -428,9 +426,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "CadastrarUsuarioForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\CadastrarUsuarioForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastrarUsuarioForm.cs",
               "RelativeDocumentMoniker": "CadastrarUsuarioForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\CadastrarUsuarioForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastrarUsuarioForm.cs",
               "RelativeToolTip": "CadastrarUsuarioForm.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAcwDkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,9 +438,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "CadastroVeiculoForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\CadastroVeiculoForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastroVeiculoForm.cs",
               "RelativeDocumentMoniker": "CadastroVeiculoForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\CadastroVeiculoForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastroVeiculoForm.cs",
               "RelativeToolTip": "CadastroVeiculoForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -452,22 +450,21 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "VeiculosForm.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\VeiculosForm.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\VeiculosForm.cs",
               "RelativeDocumentMoniker": "VeiculosForm.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\VeiculosForm.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\VeiculosForm.cs",
               "RelativeToolTip": "VeiculosForm.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAASwCgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:52:51.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T20:52:51.066Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "CadastroVeiculoForm.Designer.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\CadastroVeiculoForm.Designer.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastroVeiculoForm.Designer.cs",
               "RelativeDocumentMoniker": "CadastroVeiculoForm.Designer.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\CadastroVeiculoForm.Designer.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\CadastroVeiculoForm.Designer.cs",
               "RelativeToolTip": "CadastroVeiculoForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -477,9 +474,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\LoginForm.Designer.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "LoginForm.Designer.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\LoginForm.Designer.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\LoginForm.Designer.cs",
               "RelativeToolTip": "LoginForm.Designer.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAswF4AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,9 +486,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Mapeamento\\Cliente.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Cliente.cs",
               "RelativeDocumentMoniker": "Mapeamento\\Cliente.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Mapeamento\\Cliente.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Mapeamento\\Cliente.cs",
               "RelativeToolTip": "Mapeamento\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -501,9 +498,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ClientesForm.Designer.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\ClientesForm.Designer.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\ClientesForm.Designer.cs",
               "RelativeDocumentMoniker": "ClientesForm.Designer.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\ClientesForm.Designer.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\ClientesForm.Designer.cs",
               "RelativeToolTip": "ClientesForm.Designer.cs",
               "ViewState": "AQIAAFkAAAAAAAAAAAAawGUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -513,9 +510,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Conexao.cs",
-              "DocumentMoniker": "S:\\Software_LavaRapido\\Conexao.cs",
+              "DocumentMoniker": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Conexao.cs",
               "RelativeDocumentMoniker": "Conexao.cs",
-              "ToolTip": "S:\\Software_LavaRapido\\Conexao.cs",
+              "ToolTip": "S:\\Reposit\u00F3rio LR\\Car-wash-Software\\Software_LavaRapido\\Conexao.cs",
               "RelativeToolTip": "Conexao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
